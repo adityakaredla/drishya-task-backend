@@ -1,0 +1,92 @@
+{
+    "name": "A",
+    "children": [
+        {
+            "name": "B",
+            "children": [
+                {
+                    "name": "D",
+                    "children": [
+                        {
+                            "name": "H",
+                            "children": [
+                                {
+                                    "name": "N",
+                                    "children": []
+                                },
+                                {
+                                    "name": "O",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "I",
+                            "children": [
+                                {
+                                    "name": "P",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "E",
+                    "children": [
+                        {
+                            "name": "J",
+                            "children": [
+                                {
+                                    "name": "Q",
+                                    "children": []
+                                },
+                                {
+                                    "name": "R",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "C",
+            "children": [
+                {
+                    "name": "F",
+                    "children": [
+                        {
+                            "name": "K",
+                            "children": [
+                                {
+                                    "name": "S",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "G",
+                    "children": [
+                        {
+                            "name": "L",
+                            "children": [
+                                {
+                                    "name": "T",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

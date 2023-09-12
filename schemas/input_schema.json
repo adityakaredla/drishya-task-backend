@@ -1,0 +1,12 @@
+{
+    "type": "object",
+    "properties": {
+        "Node": {
+            "type": "string"
+        },
+        "Parent": {
+            "type": ["string", "null"]
+        }
+    },
+    "required": ["Node", "Parent"]
+}

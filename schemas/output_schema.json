@@ -1,0 +1,20 @@
+{
+    "type": "object",
+    "patternProperties": {
+        ".*": {
+            "type": "object",
+            "properties": {
+                "children": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "parent": {
+                    "type": ["string", "null"]
+                }
+            },
+            "required": ["children", "parent"]
+        }
+    }
+}
